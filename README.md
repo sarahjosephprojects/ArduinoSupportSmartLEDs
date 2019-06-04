@@ -1,6 +1,8 @@
 # Arduino Support for Smart LEDs 2018-19
 
-This repository contains scripts for VLC communication with Arduino microcontrollers. The sender is configured to send an initial program and the receiver is programmed to decode the VLC signal and transfer it via ICSP to a third microcontroller. The setup uses a Zigduino R2 sender, a Funduino receiver and a target Arduino Nano that gets programmed over VLC. 
+This repository contains scripts for ICSSP communication with Arduino microcontrollers. The serial array in the ArduinoISP demo file can be replaced by data captured over VLC communication. The data can then be uploaded directly to the target microcontroller. The demo file and video contains the entire Blink program within the serial array. This program is uploaded with ICSP to the target.
+
+File: ArduinoISP_Demo.ino
+Video: https://1drv.ms/v/s!Amj1eVQIR8Zrii1SX-vmKhhyOlAM?e=V72P3c
 
 Bachelorproef Informatica, Katholieke Universiteit Leuven (K.U. Leuven)
-
