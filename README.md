@@ -5,5 +5,3 @@ This repository contains the script for ICSP communication with Arduino microcon
 File: ArduinoISP_Demo.ino
 
 Video: https://1drv.ms/v/s!Amj1eVQIR8Zrii1SX-vmKhhyOlAM?e=V72P3c
-
-Bachelorproef Informatica, Katholieke Universiteit Leuven (K.U. Leuven)
