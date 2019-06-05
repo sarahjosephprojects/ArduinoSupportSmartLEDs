@@ -1,5 +1,5 @@
 # Arduino support for smart LEDs
-This temporary repository has been created for the duration of the evaluation.
+This temporary repository has been created for the evaluation.
 
 Student: Sarah Joseph, Informatica, K.U. Leuven
 
